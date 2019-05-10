@@ -3,7 +3,7 @@ package object.test;
 import java.util.HashSet;
 import java.util.Set;
 
-public class ObjectTes03 {
+public class ObjectTest03 {
 	public static void main(String[] args) {
 		Set<Point> set = new HashSet<Point>();
 
